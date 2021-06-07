@@ -1,4 +1,0 @@
-py -m pip install Streamlit
-py -m pip install Prophet
-py -m pip install yfinance
-py -m pip install plotly
